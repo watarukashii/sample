@@ -1,12 +1,8 @@
 <?php
-
+echo '2014/07/18';
 echo "test2hogehoge";
 echo 'test';
-<<<<<<< HEAD
-
-=======
-echo 'hogehgo';
+echo "hogehoge";
 echo "testhogehoge";
->>>>>>> master
 
 
