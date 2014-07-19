@@ -4,5 +4,6 @@ echo "test2hogehoge";
 echo 'test';
 echo "hogehoge";
 echo "testhogehoge";
-
-
+if (true) {
+	echo 'test';
+}
